@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Testapp10</name>
+        <required_roles>admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>shivakumara.appaji@infinite.com</sys_created_by>
+        <sys_created_on>2024-09-18 10:19:48</sys_created_on>
+        <sys_id>f4617d981bbc9210165ac9d6624bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testapp10</sys_name>
+        <sys_package display_value="Testapp10" source="x_fobr_testapp10">8a2131541bbc9210165ac9d6624bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testapp10">8a2131541bbc9210165ac9d6624bcb15</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_f4617d981bbc9210165ac9d6624bcb88</sys_update_name>
+        <sys_updated_by>shivakumara.appaji@infinite.com</sys_updated_by>
+        <sys_updated_on>2024-09-18 10:19:48</sys_updated_on>
+        <title>Testapp10</title>
+    </sys_sg_applet_launcher>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f2b9","FontColor":"#293e40","BackgroundColor":"#293e40","Name":"icon-Address-Book"}</icon>
+        <name>icon-Address-Book</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>shivakumara.appaji@infinite.com</sys_created_by>
+        <sys_created_on>2024-09-18 10:19:48</sys_created_on>
+        <sys_id>38617d981bbc9210165ac9d6624bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Address-Book</sys_name>
+        <sys_package display_value="Testapp10" source="x_fobr_testapp10">8a2131541bbc9210165ac9d6624bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testapp10">8a2131541bbc9210165ac9d6624bcb15</sys_scope>
+        <sys_update_name>sys_sg_icon_38617d981bbc9210165ac9d6624bcb87</sys_update_name>
+        <sys_updated_by>shivakumara.appaji@infinite.com</sys_updated_by>
+        <sys_updated_on>2024-09-18 10:19:48</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
