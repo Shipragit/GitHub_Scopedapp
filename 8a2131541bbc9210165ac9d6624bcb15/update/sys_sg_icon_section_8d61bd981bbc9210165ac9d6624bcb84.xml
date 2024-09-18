@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>3c617d981bbc9210165ac9d6624bcb8e</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles>admin</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>shivakumara.appaji@infinite.com</sys_created_by>
+        <sys_created_on>2024-09-18 10:19:48</sys_created_on>
+        <sys_id>8d61bd981bbc9210165ac9d6624bcb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Testapp10" source="x_fobr_testapp10">8a2131541bbc9210165ac9d6624bcb15</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testapp10">8a2131541bbc9210165ac9d6624bcb15</sys_scope>
+        <sys_update_name>sys_sg_icon_section_8d61bd981bbc9210165ac9d6624bcb84</sys_update_name>
+        <sys_updated_by>shivakumara.appaji@infinite.com</sys_updated_by>
+        <sys_updated_on>2024-09-18 10:19:48</sys_updated_on>
+        <table/>
+        <title>1</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>
