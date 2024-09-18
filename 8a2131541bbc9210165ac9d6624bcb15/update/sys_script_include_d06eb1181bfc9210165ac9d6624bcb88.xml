@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_fobr_testapp10.voip</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>voip</name>
+        <script><![CDATA[var voip = Class.create();
+voip.prototype = {
+    initialize: function() {
+    },
+    // adding text
+    type: 'voip'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>shivakumara.appaji@infinite.com</sys_created_by>
+        <sys_created_on>2024-09-18 11:17:01</sys_created_on>
+        <sys_id>d06eb1181bfc9210165ac9d6624bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>voip</sys_name>
+        <sys_package display_value="Testapp10" source="x_fobr_testapp10">8a2131541bbc9210165ac9d6624bcb15</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Testapp10">8a2131541bbc9210165ac9d6624bcb15</sys_scope>
+        <sys_update_name>sys_script_include_d06eb1181bfc9210165ac9d6624bcb88</sys_update_name>
+        <sys_updated_by>shivakumara.appaji@infinite.com</sys_updated_by>
+        <sys_updated_on>2024-09-18 11:17:01</sys_updated_on>
+    </sys_script_include>
+</record_update>
