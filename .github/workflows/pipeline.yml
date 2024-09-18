@@ -21,7 +21,7 @@ jobs:
       - name: ServiceNow CI/CD Apply Changes
         uses: ServiceNow/sncicd-apply-changes@2.0.0
         env:
-          nowUsername: ${{ secrets.SN_USERNAME }}
+          nowUsername: ${{ secrets.SN_DEV_USERNAME }}
           nowPassword: ${{ secrets.SN_DEV_PASSWORD }}
           nowSourceInstance: ${{ secrets.SN_DEV_INSTANCE }}
           appSysID: ${{ secrets.SN_APP_SYSID }}
@@ -35,7 +35,7 @@ jobs:
           # Optional, add +X to version number. Default: 1 
           # incrementBy: X
         env:
-          nowUsername: ${{ secrets.SN_USERNAME }}
+          nowUsername: ${{ secrets.SN_DEV_USERNAME }}
           nowPassword: ${{ secrets.SN_DEV_PASSWORD }}
           nowSourceInstance: ${{ secrets.SN_DEV_INSTANCE }}
           appSysID: ${{ secrets.SN_APP_SYSID }}
@@ -129,7 +129,7 @@ jobs:
           # Default: false
 #          autoUpgradeBaseApp: true
         env:
-          nowUsername: ${{ secrets.SN_USERNAME }}
+          nowUsername: ${{ secrets.SN_PROD_USERNAME }}
           nowPassword: ${{ secrets.SN_PROD_PASSWORD }}
           nowInstallInstance: ${{ secrets.SN_PROD_INSTANCE }}
           appSysID: ${{ secrets.SN_APP_SYSID }}
